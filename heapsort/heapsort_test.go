@@ -1,7 +1,7 @@
 package heapsort_test
 
 import (
-	"github.com/ivanovaleksey/sort-go/heapsort"
+	"github.com/ivanovaleksey/algogo/heapsort"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

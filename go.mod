@@ -1,4 +1,4 @@
-module github.com/ivanovaleksey/sort-go
+module github.com/ivanovaleksey/algogo
 
 go 1.13
 
